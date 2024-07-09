@@ -1162,3 +1162,9 @@ east-solely.gl.at.ply.gg:4431 => 127.0.0.1:4431 (proto: Udp, port count: 1)
 TUNNELS
 young-prayer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 east-solely.gl.at.ply.gg:4431 => 127.0.0.1:4431 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720563064229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+young-prayer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+east-solely.gl.at.ply.gg:4431 => 127.0.0.1:4431 (proto: Udp, port count: 1)
